@@ -85,7 +85,8 @@ a { padding-left: 2px; padding-right: 2px;}
 }
 .card::before {
     content: "\e009";
-    font-family:normal;
+    font-family:"Glyphicons Halflings";
+    font-style:normal;
     font-weight:400;
     line-height:1;
 }
